@@ -25,7 +25,7 @@ pipeline {
                               steps {
 
 
-                                      sh "service start httpd" 
+                                      sh "service httpd start" 
 
 
                                                    }
