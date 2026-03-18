@@ -5,7 +5,7 @@ pipeline {
                  label {
 
                label "slave-1"
-               customworkspace "/mnt/dev-app1
+               customWorkspace "/mnt/dev-app1
            }
         }
      
