@@ -16,6 +16,7 @@ pipeline {
                               steps {
 
                                        echo "deploying index.html on httpd"
+                                       sh "yum install httpd -y "
 
                                                    }
  
